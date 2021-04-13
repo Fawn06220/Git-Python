@@ -1,0 +1,8 @@
+django
+--upgrade pip
+paramiko
+tqdm
+requests
+bs4
+py2exe
+https://nchc.dl.sourceforge.net/project/py2exe/py2exe/0.6.9/py2exe-0.6.9.zip
